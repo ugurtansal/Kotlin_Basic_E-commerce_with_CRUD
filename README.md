@@ -43,18 +43,18 @@ The app follows a clean **MVVM** structure:
 ## 📸 Screenshots
 
 ### 🏠 Home Screen  
-![Home Screen](assets/ssMainPage.png)
+![Home Screen](/app/src/main/assets/ssMainPage.png)
 
 ### 🍕 Product Detail Screen  
-![Product Detail](assets/ssDetail.png)
-![Product Detail](assets/ssDetail_2.png)
+![Product Detail](/app/src/main/assets/ssDetail.png)
+![Product Detail](/app/src/main/assets/ssDetail_2.png)
 
 ### 🛒 Cart Screen  
-![Cart](assets/ssCart.png)
-![Cart](assets/ssCart_2.png)
+![Cart](/app/src/main/assets/ssCart.png)
+![Cart](/app/src/main/assets/ssCart_2.png)
 
 ### ❤️ Favorites Screen  
-![Favorites](assets/ssFavorites.png)
+![Favorites](/app/src/main/assets/ssFavorites.png)
 
 ---
 
@@ -111,18 +111,18 @@ Uygulama, modüler bir şekilde MVVM mimarisiyle yapılandırılmıştır.
 ## 📸 Ekran Görüntüleri
 
 ### 🏠 Ana Sayfa  
-![Ana Sayfa](assets/ssMainPage.png)
+![Ana Sayfa](/app/src/main/assets/ssMainPage.png)
 
 ### 🍕 Ürün Detay Sayfası  
-![Product Detail](assets/ssDetail.png)
-![Product Detail](assets/ssDetail_2.png)
+![Product Detail](/app/src/main/assets/ssDetail.png)
+![Product Detail](/app/src/main/assets/ssDetail_2.png)
 
 ### 🛒 Sepet Sayfası  
-![Cart](assets/ssCart.png)
-![Cart](assets/ssCart_2.png)
+![Cart](/app/src/main/assets/ssCart.png)
+![Cart](/app/src/main/assets/ssCart_2.png)
 
 ### ❤️ Favoriler Ekranı  
-![Favorites](assets/ssFavorites.png)
+![Favorites](/app/src/main/assets/ssFavorites.png)
 
 
 
