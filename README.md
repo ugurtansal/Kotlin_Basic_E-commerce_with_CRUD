@@ -67,6 +67,8 @@ The app follows a clean **MVVM** structure:
 
 ---
 
+# You can reach the implementations of the project step by step: https://github.com/ugurtansal/Kotlin_bootcamp_tasks/commits/main/graduation_project
+
 [TR]
 
 ## 🛵 E-Yemek Sipariş Uygulaması
@@ -136,6 +138,8 @@ Uygulama, modüler bir şekilde MVVM mimarisiyle yapılandırılmıştır.
 4. Cihaz veya emulator üzerinde çalıştırın
 
 ---
+
+# Projenin adım adım uygulanmasını incelemek için:  https://github.com/ugurtansal/Kotlin_bootcamp_tasks/commits/main/graduation_project
 
 ## 📄 Lisans
 
