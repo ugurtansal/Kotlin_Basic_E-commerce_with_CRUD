@@ -67,7 +67,7 @@ The app follows a clean **MVVM** structure:
 
 ---
 
-# You can reach the implementations of the project step by step: https://github.com/ugurtansal/Kotlin_bootcamp_tasks/commits/main/graduation_project
+## You can reach the implementations of the project step by step: https://github.com/ugurtansal/Kotlin_bootcamp_tasks/commits/main/graduation_project
 
 [TR]
 
@@ -139,7 +139,7 @@ Uygulama, modüler bir şekilde MVVM mimarisiyle yapılandırılmıştır.
 
 ---
 
-# Projenin adım adım uygulanmasını incelemek için:  https://github.com/ugurtansal/Kotlin_bootcamp_tasks/commits/main/graduation_project
+## Projenin adım adım uygulanmasını incelemek için:  https://github.com/ugurtansal/Kotlin_bootcamp_tasks/commits/main/graduation_project
 
 ## 📄 Lisans
 
